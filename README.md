@@ -23,3 +23,4 @@
 
 The website will be running on a VPS to be able to access it from anywhere with nearly 0 downtime.
 Maybe we can add in front of the app Authentik to add a security layer to access the app
+
